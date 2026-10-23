@@ -14,4 +14,4 @@ Les archives sont jointes aux [Releases](../../releases), une Release par versio
 | Identifiant | Support | Région | Version | Archive | Taille |
 |---|---|---|---|---|---|
 | NPEB01899 | PlayStation Network | Europe | 1.84 | `NPEB01899-1.84.zip` | 1,13 Go |
-| NPUB31419 | PlayStation Network | US | 1.84 | `NPUB31419-1.84.zip` | 1,13 Go |
+| NPUB31419 | PlayStation Network | US | 1.84 | `NPUB31419-1.84.zip` | 1,12 Go |
